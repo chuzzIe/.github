@@ -1,5 +1,3 @@
-Hi guys 
-
 ![Header](https://github.com/chuzzIe/.github/raw/main/profile/chuzzleheader.png "Header")
 # Hello there! <img src="https://github.com/waImart/waImart/blob/main/assets/wave.gif?raw=true" width="30px">
 
